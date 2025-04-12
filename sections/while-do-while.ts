@@ -11,7 +11,7 @@
 
 // do while
 
-let gasTank = 10;
+ export let gasTank = 10;
 
 do {
     console.log('Gasolina restante', gasTank);
