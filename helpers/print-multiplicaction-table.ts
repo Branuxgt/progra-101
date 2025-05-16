@@ -16,4 +16,4 @@ return
 
 }
 
-printMultiplicationTable();
+//printMultiplicationTable();
