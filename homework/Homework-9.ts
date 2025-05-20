@@ -1,4 +1,4 @@
-function heroesThatStartsWith(nameOfHeroes:string[],startLetter:string){
+export function heroesThatStartsWith(nameOfHeroes:string[],startLetter:string){
 
     startLetter = startLetter.toUpperCase();
     let newListOfHeroes:string[]=[];
